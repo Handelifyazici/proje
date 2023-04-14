@@ -4,8 +4,12 @@ html{
 body{
     background-color: white;
 }
-.nav{
+.ust-kisim{
     width: 1.540;
+    height: 174;
+    opacity: 100%;
+}
+.nav{
     height: 36;
     background-color: #2B2B2B;
     opacity: 100%;
