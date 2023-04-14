@@ -54,7 +54,7 @@ body{
     height: 27;
     grid-template: Custom;
 } 
-.acme{
+.logo-acme{
     position: (3px, -4px);
     width: 92;
     height: 36;
@@ -64,7 +64,7 @@ body{
     text-align: center;
     vertical-align: top;
 }
-.inc{
+.logo-inc{
     position: (113.5px, -4px);
     width: 53;
     height: 36;
