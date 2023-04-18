@@ -10,7 +10,6 @@ body{
 .nav-img{
     width:12px; 
     margin-left: 85px; 
-    margin-top: 12px; 
 }
 .nav-a{
     font-size: 10px;
@@ -25,36 +24,27 @@ body{
     color: #FFFFFF;
     text-align: center;
 }
-.header-main-logo{
-    color: #304835;    
-    position: (690px, 65px);
-    width: 167;
-    height: 27;
-    grid-template: Custom;
+.logo{   
+    width: 16px;
+    height: 27px;
+    text-align: center;
+    vertical-align: top;
 } 
 .logo-acme{
-    position: (3px, -4px);
     width: 92px;
     height: 36px;
-    font-weight: 700px;
     font-size: 30px;
     color: #304835;
-    text-align: center;
-    vertical-align: top;
 }
 .logo-inc{
-    position: (113.5px, -4px);
-    width: 53;
-    height: 36;
+    width: 53px;
+    height: 36px;
     color: #304835;
-    text-align: center;
-    vertical-align: top;
-
 }
-span{
-    position: (102.75px, 0.51px);
-    width: 3.01;
-    height: 26.19;
+.fill{
+    /* position: (102.75px, 0.51px); */
+    width: 3.01px;
+    height: 26.19px;
     color: #F1FF00;
 } 
 .container{
