@@ -536,19 +536,6 @@ li{
     text-align: center;
     padding-top: 13px;
 }
-#footer-title{
-    height: 16px;
-    opacity: 1;
-    color: rgba(255,255,255,1);
-    font-family: "Inter-Regular";
-    font-size: 13px;
-    font-weight: 400;
-    font-style: normal;
-    letter-spacing: 0px;
-    text-align: center;
-    padding-top: 10px;
-    margin-top: 39px;
-}
 .take{
     width: 228px;
     opacity: 1;
@@ -582,7 +569,7 @@ li{
     height: 168px;
     border: 1px solid rgba(232,231,231, 1);
     opacity: 1;
-    margin-left: 439.05px;
+    margin-left: 504.05px;
     margin-top: -120px;
 }
 .menu1{
@@ -597,22 +584,22 @@ li{
     letter-spacing: 0px;
     text-align: left;
     line-height: 38px;
-    margin-left: 467px;
+    margin-left: 527px;
     margin-top: -182px;
 }
 .artı{
-    margin-left: 603px;
-    margin-top: -175px;
+    margin-left: 708px;
+    margin-top: -191px;
 }
 #rectangle1{
     width: 1.5px;
     height: 168px;
     border: 1px solid rgba(232,231,231, 1);
     opacity: 1;
-    margin-left: 652.65px;
-    margin-top: -200px;
+    margin-left: 750.65px;
+    margin-top: -197px;
 }
-.menu1-1{
+.menu2{
     width: 170px;
     height: 190px;
     opacity: 1;
@@ -624,10 +611,104 @@ li{
     letter-spacing: 0px;
     text-align: left;
     line-height: 38px;
-    margin-left: 675.2px;
-    margin-top: -408px;
+    margin-left: 783.2px;
+    margin-top: -180px;
 }
 .artı1{
-    margin-left: 0px;
-    margin-top: 0px;
+    margin-left:965px;
+    margin-top: -175px;
+}
+#rectangle2{
+    width: 1.5px;
+    height: 171px;
+    border: 1px solid rgba(232,231,231, 1);
+    opacity: 1;
+    margin-left: 998.65px;
+    margin-top: -200px;
+}
+.menu3{
+    width: 170px;
+    height: 190px;
+    opacity: 1;
+    color: rgba(0,0,0,1);
+    font-family: "Inter-Regular";
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 38px;
+    margin-left: 1043.2px;
+    margin-top: -180px;
+}
+#rectangle3{
+    width: 1.5px;
+    height: 172px;
+    border: 1px solid rgba(232,231,231, 1);
+    opacity: 1;
+    margin-left: 1251.65px;
+    margin-top: -183px;
+}
+.menu4{
+    width: 170px;
+    height: 190px;
+    opacity: 1;
+    color: rgba(0,0,0,1);
+    font-family: "Inter-Regular";
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 38px;
+    margin-left: 1275.2px;
+    margin-top: -180px;
+}
+#rectangle4{
+    width: 1.5px;
+    height: 170px;
+    border: 1px solid rgba(232,231,231, 1);
+    opacity: 1;
+    margin-left: 1499.65px;
+    margin-top: -183px;
+}
+.menu5{
+    width: 170px;
+    height: 190px;
+    opacity: 1;
+    color: rgba(0,0,0,1);
+    font-family: "Inter-Regular";
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+    line-height: 38px;
+    margin-left: 1529.2px;
+    margin-top: -180px;
+}
+.nav1{
+    height: 36px;
+    width: 100%;
+    background-color: #2B2B2B;
+    opacity: 1;
+}
+.footer-title{
+    width: 1723px;
+    height: 16px;
+    opacity: 1;
+    color: rgba(255,255,255,1);
+    font-family: "Inter-Regular";
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 39px;
+}
+.border{
+    width: 1.540px;
+    opacity: 1;
+    border: 1px solid #E8E7E7;
 }
